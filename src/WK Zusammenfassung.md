@@ -131,3 +131,64 @@ Chance, die Eignung und Motivation des Auszubildenden zu prüfen und bei Inkompa
 
 
 Überwachung erfolgt durch die Kammern z.B. IHK, HWK.
+
+## Arbeitsschutz
+
+---
+
+**Arbeitsunfälle**
+
+1. **Ursachen**
+    - Ungenügende Schutzvorrichtungen
+    - Technische Fehler
+    - Menschliches Versagen
+1. **Folgen**
+    - *Für den Verletzten:*
+      - Berufsunfähigkeit
+      - Erwerbsunfähigkeit
+      - Tod
+      - Geringeres Einkommen
+    - *Für den Betrieb:*
+      - Verlust von Fachkräften
+      - Produktionsausfall
+      - Höhere Beiträge für die Berufsgenossenschaft
+      - Sachschäden
+    - *Für die Gesellschaft:*
+      - Hohe kosten für z.B. Renten, Heilbehandlung, Umschulung
+      - Höhere Preise durch gestiegene Kosten des Betriebs
+
+### Technischer Arbeitsschutz
+
+---
+
+#### Verordnungen, Vorschriften & Gesetze
+
+##### Unfallverhütungsvorschrift
+
+##### Arbeitssicherheitsgesetz
+
+##### Gewerbeordnung
+
+##### Arbeitsstättenverordnung
+
+##### Produktsicherheitsgesetz
+
+#### Zeichen
+
+- Warnzeichen - Gelb
+- Gebotszeichen - Blau
+- Verbotszeichen - Rot
+
+### Sozialer Arbeitsschutz
+
+#### Verordnungen & Gesetze
+
+##### Arbeitszeitgesetz
+
+##### Mutterschutzgesetz
+
+##### Schwerbehindertenschutz im Sozialgesetzbuch
+
+##### Bundeselterngeld - und Elternzeitgesetz
+
+##### Jugendarbeitsschutzgesetz

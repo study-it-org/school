@@ -78,7 +78,58 @@ Beispiel mit einer Zahl ins Dezimalsystem $18,32$
 | **Potenzwert**  | $1 \cdot 10 = 10$             | $8 \cdot 1 = 8$ | $3 \cdot 0.1 = 0.3$ | $2 \cdot 0.01 = 0.02$ |
 | **Zahlenwert**  | $10 + 8 + 0.3 + 0.02 = 18,32$ |                     |                     |                       |
 
+#### Bit & Byte
 
+---
+
+##### Bit
+
+---
+
+- Bits sind die kleinsten Einheiten von digitaler Information.
+- Ein einzelnes Bit ist eine Abkürzung für "binary digit" (binäre Ziffer) und kann entweder den Wert 0 oder 1 haben.
+
+##### Bytes
+
+<table>
+  <tr>
+    <th>Bit 7</th>
+    <th>Bit 6</th>
+    <th>Bit 5</th>
+    <th>Bit 4</th>
+    <th>Bit 3</th>
+    <th>Bit 2</th>
+    <th>Bit 1</th>
+    <th>Bit 0</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>0</td>
+    <td>0</td>
+    <td>1</td>
+    <td>1</td>
+    <td>0</td>
+    <td>0</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>MSB</td>
+    <td colspan="6"></td>
+    <td>LSB</td>
+  </tr>
+  <tr>
+    <td colspan="4">Nibble 1</td>
+    <td colspan="4">Nibble 0</td>
+  </tr>
+  <tr>
+    <td colspan="8">Byte</td>
+  </tr>
+</table>
+
+
+- Bytes sind eine Gruppierung von Bits.
+- Ein Byte besteht aus 8 Bits.
+- $2^8 = 256$ mögliche Kombinationen.
 
 ##### Gesamtformel zum ermitteln des Zahlenwertes
 
@@ -149,3 +200,147 @@ Wenn man die 18 nun mit der -18 Addiert erhält man Null.
 8-Bit-Zahl kann Werte zwischen -128 und +127 darstellen.
     
 - Die asymmetrische Verteilung der Werte liegt an der 0.
+
+## Rechnen mit Binärzahlen
+
+---
+
+### Addition
+
+---
+
+| A | B | Übertrag (C_in) | Summe (S) | Übertrag aus (C_out) |
+|---|---|-----------------|-----------|----------------------|
+| 0 | 0 |        0        |     0     |          0           |
+| 0 | 1 |        0        |     1     |          0           |
+| 1 | 1 |        0        |     0     |          1           |
+| 0 | 1 |        1        |     0     |          1           |
+| 1 | 1 |        1        |     1     |          1           |
+
+### Subtraktion
+
+---
+
+| A | B | Borrow_in (C_in) | Differenz (D) | Borrow_out (C_out) |
+|---|---|------------------|----------------|--------------------|
+| 0 | 0 |        0         |       0        |         0          |
+| 0 | 0 |        1         |       1        |         1          |
+| 0 | 1 |        0         |       1        |         1          |
+| 0 | 1 |        1         |       0        |         1          |
+| 1 | 0 |        0         |       1        |         0          |
+| 1 | 0 |        1         |       0        |         0          |
+| 1 | 1 |        0         |       0        |         0          |
+| 1 | 1 |        1         |       1        |         1          |
+
+### Zweierkompliment
+
+---
+
+Nutze einfach die Additionsregel und nutze als Datentyp für die Summanden und für die Summe das Zweierkompliment.
+
+## Codes
+
+---
+
+Codes sind Daten in einem bestimmten Format. Die Regeln die dieses Format bilden nennt man Syntax.
+
+### Codieren
+
+---
+
+Daten in ein bestimmtes Format formatieren.
+
+### Decodieren
+
+---
+
+Daten aus einem Format formatieren.
+
+## Semiotik
+
+---
+
+Semiotik in der Informatik befasst sich damit, wie Daten (rohe Fakten oder Symbole) durch Syntax (Regeln und Strukturen) in Informationen (Bedeutungen) umgewandelt werden, die dann durch Semantik (Bedeutung und Interpretation) verstanden werden können.
+
+Hier ein Beispiel:
+
+> Wenn eine Reihe von Nullen und Einsen (Daten) gemäß der Syntax einer Programmiersprache angeordnet wird, um einen Algorithmus (Information) zu erstellen, der eine bestimmte Aufgabe erfüllt, und die Semantik wird verwendet, um den Algorithmus zu verstehen und seine Auswirkungen zu interpretieren.
+
+### Daten
+
+---
+
+Sind einfache Zustände der Realität.
+
+#### Syntax
+
+---
+
+Regeln für die Formatierung von Daten.
+
+### Informationen
+
+---
+
+Ergibt sich aus interpretation von Daten.
+
+#### Semantik
+
+---
+
+Interpretation von Daten.
+
+## Wissen
+
+---
+
+Wissen entsteht wenn man mehrere Informationen in Kontext setzt.
+
+## Code-Arten
+
+---
+
+### Numerische Codes
+
+---
+
+Numerische Codes codieren Ziffern. Angewendet werden sie beim Zählen und Rechnen, zur Codierung von Postleitzahlen oder Artikelnummern in Warenhäusern.
+
+### Alphanumerische Codes
+
+---
+
+Alphanumerische Codes codieren neben Ziffern auch die Buchstaben des Alphabets und Steuerzeichen.
+
+### Leitungscodes
+
+---
+
+Leitungscodes dienen zur Umwandlung von binären Signalen in Digitalsignale, die für das Übertragungsmedium (z.B. Kupferleitung) am besten geeignet sind.
+
+## BCD CODE
+
+BCD-Code Neben der Dualcodierung wird in der Informationstechnik auch der BCD-Code zur Darstellung von Ziffernfolgen genutzt. Dabei steht BCD für Binary Coded Decimals (Binär codierte Dezimalzahlen). Im BCD-Code wird jede Dezimalziffer durch 4 Bit der entsprechenden dualen Zahl dargestellt. Häufig zum Einsatz kommt dabei der 8-4-2-1-BCD-Code, dieser wird auch als Natural Binary-Coded Decimal (NBCD) bezeichnet.
+Die Codewörter der BCD-Codes werden auch als Tetraden bezeichnet. Von den 16 möglichen Tetraden werden zur Darstellung der zehn Dezimalziffern jeweils sechs Tetraden nicht verwendet. Diese werden Pseudotetraden oder Pseudodezimale genannt.
+
+## ASCII-Code
+
+Codierung um Zeichen darzustellen.
+
+- In ASCII ist 1 Zeichen = 1 Byte
+- Beinhaltet 128 Zeichen (Beim erweiterten 256)
+- Das 8te Bit wird als Paritätsbit verwendet
+
+### Unicode
+
+---
+
+Unicode ist eine Globale Standard Formatierung für Zeichen nach ISO10646.
+
+## UTF-8
+
+---
+
+- Die Binäre Codierung des Unicodes ist in UTF (Unicode Transformation Format).
+- Ermöglicht durch eine dynamische Größe zwischen 1 - 4 Bytes je nachdem, welche Zeichen verwendet werden, effizient mehr als 256 Zeichen zu verwenden.
+

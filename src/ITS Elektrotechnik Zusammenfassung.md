@@ -1,4 +1,4 @@
-# ITS Elektrotechnik Mitschreib
+# ITS Elektrotechnik Zusammenfassung
 
 ---
 
@@ -149,3 +149,93 @@ Die Elektronen fließen in einem **Stromkreis** physisch vom Minuspol zum Pluspo
 
 Die Bewegung der Ladungsträger nennt man Strom.
 
+## Stromarten und Stromwirkungen
+
+---
+
+### Stromarten
+
+---
+
+- https://www.enercity.de/magazin/mein-leben/fakten-wechselstrom-gleichstrom
+- https://www.fischerfutureheat.de/gleichstrom-wechselstrom-mischstrom/
+
+### Wärmewirkung
+
+---
+
+- https://mebedo-ac.de/blog/wirkungen-des-elektrischen-stroms/
+- https://www.leifiphysik.de/elektrizitaetslehre/stromwirkungen/grundwissen/waermewirkung-des-elektrischen-stroms  
+
+### Leuchtwirkung
+
+---
+
+- https://www.leifiphysik.de/elektrizitaetslehre/stromwirkungen/grundwissen/leuchtwirkung-des-elektrischen-stroms
+- https://mebedo-ac.de/blog/wirkungen-des-elektrischen-stroms/
+
+### Magnetische Wirkung
+
+---
+
+- https://www.leifiphysik.de/elektrizitaetslehre/stromwirkungen/grundwissen/magnetische-wirkung-des-elektrischen-stroms
+- https://mebedo-ac.de/blog/wirkungen-des-elektrischen-stroms/
+
+### Chemische Wirkung
+
+---
+
+- https://www.leifiphysik.de/elektrizitaetslehre/stromwirkungen/grundwissen/chemische-wirkung-des-elektrischen-stroms
+- https://mebedo-ac.de/blog/wirkungen-des-elektrischen-stroms/
+
+## Elektrische Spannung
+
+---
+
+**Merke:**
+Zwischen ungleichartigen Ladungen Q wirken Anziehungskräfte. Die getrennten Ladungen haben das Bestreben sich wieder auszugleichen. Das Ausgleichsbestreben getrennter Ladungen ist die Spannung U. Elektrische Spannung ist die Ursache für den elektrischen Strom.
+
+**Merke:**
+Eine Spannung besteht immer zwischen zwei Punkten (Pluspol & Minuspol). Diese Punkte verfügen über ein sogenanntes Potential φ (griech. „phi“). Eine Spannung kann also auch als Potentialdifferenz ausgedrückt werden.
+
+![[Pasted image 20241115175639.png]]
+
+**Merke:**
+Um Ladungen zu trennen muss Arbeit W verrichtet werden. Diese Arbeit ist dann als Energie in den Ladungen gespeichert.
+
+Es gilt:
+
+
+Formelzeichen = Einheitszeichen = Einheitszeichen umgewandelt
+$U = V$
+$W = J = VAs$
+$Q = C = As$
+$P = W = VA$
+
+---
+
+# $U = \frac{W}{Q} \quad | \cdot Q$
+# $W = U\cdot Q \quad | \div U$
+# $Q = \frac{W}{U} | \cdot U$
+# $W = U\cdot Q \quad | \div Q$
+# $U = \frac{W}{Q}$
+
+---
+
+# $U = \frac{Pt}{Q} \quad | \cdot Q$
+# $Pt = U\cdot Q \quad | \div U$
+# $Q = \frac{Pt}{U} | \cdot U$
+# $Pt = U\cdot Q \quad | \div Q$
+# $U = \frac{Pt}{Q}$
+
+
+### Möglichkeiten der Spannungserzeugung
+
+---
+
+- **Induktion:** Generatoren, Mikrofone 
+- **Chemische Reaktion:** Batterien, Akkus 
+- **Licht:** Photovoltaik 
+- **Wärme:** Sensoren für Temperaturmessung 
+- **Kristallverformung:** Drucksensoren 
+- **Reibung:** Elektrostatische Aufladung
