@@ -1,6 +1,6 @@
 ---
 Name: Marko Wagner
-Raum: Raum 404 
+Raum: Raum 404
 E-Mail: wagner.m@gewerbeschule-vs.de
 ---
 
@@ -38,33 +38,210 @@ E-Mail: wagner.m@gewerbeschule-vs.de
 
 ## Standort Faktoren
 
+**Wichtige Standortfaktoren bei der Unternehmensgründung (Stichpunkte)**
+
+- **Infrastruktur**
+
+  - Verkehrsanbindung (Straßen, Bahn, Flughafen, Seehafen)
+  - Digitale Infrastruktur (Internetgeschwindigkeit, Netzabdeckung)
+  - Energieversorgung (Stabilität, Kosten)
+
+- **Arbeitsmarkt**
+
+  - Verfügbarkeit von Fachkräften
+  - Qualifikationsniveau/Weiterbildungsmöglichkeiten
+  - Lohnniveau und Lohnnebenkosten
+
+- **Rechtliche & politische Rahmenbedingungen**
+
+  - Stabilität des politischen Umfelds
+  - Rechtssicherheit (Vertragsrecht, Patentrecht)
+  - Bürokratieaufwand (Genehmigungsverfahren, Anmeldeprozesse)
+  - Steuersystem (Einkommensteuer, Körperschaftsteuer, Gewerbesteuer)
+
+- **Finanzierungsmöglichkeiten**
+
+  - Zugang zu Banken, Risikokapitalgebern, Fördermitteln
+  - Investoren- und Gründerfreundlichkeit (Start-up-Ökosystem)
+  - Kreditkonditionen und staatliche Förderprogramme
+
+- **Marktzugang und Absatzmöglichkeiten**
+
+  - Nähe zu wichtigen Kunden und Geschäftspartnern
+  - Größe und Kaufkraft des Zielmarkts
+  - Internationale Vernetzung (Exportmöglichkeiten)
+
+- **Konkurrenz & Kooperationspotenzial**
+
+  - Cluster- und Netzwerkbildungen (z.B. Technologie- oder Industriecluster)
+  - Kooperationsmöglichkeiten mit Hochschulen, Forschungsinstituten oder anderen Unternehmen
+
+- **Lebensqualität & Standortimage**
+
+  - Attraktivität für Arbeitnehmer (Wohnraum, Freizeitangebote, Bildungssystem)
+  - Sicherheitslage und Umweltfaktoren
+  - Kultur- und Innovationsklima (z.B. Akzeptanz für neue Ideen)
+
+- **Kostenfaktoren**
+
+  - Miet- und Immobilienpreise (Gewerbeimmobilien)
+  - Energie- und Betriebskosten
+  - Steuern und Abgaben
+
+- **Zukunftsorientierte Faktoren**
+  - Innovationsförderung (Forschungs- und Entwicklungsinfrastruktur)
+  - Digitale Kompetenzen und Technologieakzeptanz
+  - Nachhaltigkeit (Verfügbarkeit erneuerbarer Energien, Umweltauflagen)
+
+Diese Faktoren können je nach Branche und Art des Unternehmens unterschiedlich gewichtet sein. Bei einer Unternehmensgründung sollte man eine individuelle Standortanalyse durchführen, um das optimale Umfeld für das eigene Geschäftsmodell zu finden.
+
+## Unternehmensformen
+
 ---
 
-Die beiden PDF-Dateien, die du hochgeladen hast, enthalten Informationen über eine Standortanalyse der deutschen Wirtschaft, erstellt vom Institut der deutschen Wirtschaft Köln.
+- Mindest/Grundkapital = Das minimum an Kapital das man braucht um eine bestimmte Unternehmensform gründen zu können.
 
-### Zusammenfassung der Inhalte:
+- Start/Stammkapital = Das Kapital was man tatsächlich inwestiert wenn man ein Unternehmen gründet.
 
----
-
-1. **Industriestandorte und Standortqualität**:
-   - Deutschland wird im internationalen Vergleich der Standortqualität auf Platz 5 von 45 Ländern eingestuft.
-   - Die Bewertung basiert auf insgesamt 58 Indikatoren, die verschiedene Aspekte wie Arbeitsbeziehungen, Humankapital, Infrastruktur und Innovationsfähigkeit abdecken.
-   - Deutschland zeichnet sich durch eine starke Industrie, eine hohe Rechtssicherheit, wenig Korruption und eine gute Verfügbarkeit von Fachkräften aus.
-
-2. **Herausforderungen**:
-   - Trotz der guten Bewertungen gibt es Bereiche, in denen die deutschen Unternehmen Schwächen sehen, insbesondere die hohen Energiekosten und die finanzielle Belastung durch Steuern sowie aufwendige Genehmigungsverfahren.
-   - Im Vergleich zu Spitzenreitern wie den USA schneidet Deutschland schlechter ab, vor allem in Bezug auf geringe Bürokratie und niedrige Produktionskosten.
-
-### Analyse:
+### Personengesellschaften
 
 ---
 
-Die Dokumente bieten eine umfassende Analyse der Wettbewerbsfähigkeit Deutschlands als Industriestandort. Sie zeigen sowohl die Stärken wie die gute Infrastruktur, Rechtssicherheit und den Zugang zu qualifizierten Arbeitskräften, als auch die Schwächen, insbesondere in Bezug auf Energiekosten und Bürokratie.
+In Personengesellschaften wird mit dem Privatvermögen gehaftet.
 
-### Meinung:
+#### Einzelunternehmer
 
 ---
 
-Deutschland ist laut der Analyse nach wie vor ein sehr attraktiver Standort für die Industrie, was vor allem an stabilen Rahmenbedingungen und einer guten Infrastruktur liegt. Allerdings könnten die hohen Energiekosten und die Bürokratie langfristig die Wettbewerbsfähigkeit beeinträchtigen, insbesondere im Vergleich zu Ländern wie den USA. Es wäre daher ratsam, Maßnahmen zur Senkung dieser Kosten und zur Vereinfachung von Verfahren zu ergreifen, um die Attraktivität weiter zu steigern.
+- Namensbildung: e.K/e.Kfr.
+- Gründungsmitglieder: Maximal 1
+- Plichten:
 
-# 
+  - Handelsregister? Ja
+
+    1. Vollständiger Name
+    2. Sitz
+    3. Beschreibung des Geschäftsgegenstands
+
+  - Notarielle Beglaubigung? Nicht Notwendig
+
+- Steuern
+
+  1. Einkommenssteuer
+  2. Gewerbesteuer
+
+- Vorteile: Selber Bestimmen, Gewinnverteilung auch selber
+- Nachteile: Haftung mit Privatvermögen
+
+#### Gesellschaft bürgerlichen Rechts (GbR)
+
+---
+
+- Namensbildung:
+- Gründungsmitglieder: Mindestens 2
+- Steuern:
+- Pflichten:
+  - Handesregister? Nicht Notwenig
+  - Notarielle Beglaubigung? Nicht Notwenidg
+- Steuern:
+- Vorteile:
+- Nachteile:
+
+#### Offene Handelsgesellschaft (OHG)
+
+---
+
+- Namensbildung: OHG
+- Gründungsmitglieder:
+- Pflichten:
+  - Handelsregister?
+  - Notarielle Beglaubigung? Notwendig
+- Steuern:
+- Vorteile:
+- Nachteile:
+
+#### Kommanditgesellschaft (KG)
+
+---
+
+- Namensbildung:
+- Gründungsmitglieder:
+- Pflichten:
+  - Handelsregister?
+  - Notarielle Beglaubigung? Notwendig
+- Steuern:
+- Vorteile:
+- Nachteile:
+
+### Kapitalgesellschaften
+
+---
+
+In Kapitalgesellschaften wird mit dem Kapital gehaftet.
+
+#### Unternehmergesellschaft (UG)
+
+---
+
+- Alle Gewinne gehen in das Startkapital bis 25.000 € erreicht wird. Dann wird die UG zur einer GmbH.
+- Namensbildung:
+- Gründungsmitglieder:
+- Grundkapital: 1
+- Pflichten:
+  - Handelsregister?
+  - Notarielle Beglaubigung? Notwendig
+- Steuern:
+- Vorteile:
+- Nachteile:
+
+#### Gesellschaft mit beschränkter Haftung (GmbH)
+
+---
+
+- Namensbildung:
+- Gründungsmitglieder: 1
+- Grundkapital: 25.000 €
+- Pflichten:
+  - Handelsregister?
+  - Notarielle Beglaubigung? Notwendig
+- Steuern:
+- Vorteile:
+- Nachteile:
+
+#### Aktien Gesellschaft (AG)
+
+---
+
+- Namensbildung:
+- Gründungsmitglieder:
+- Grundkapital: 50.000 €
+- Pflichten:
+  - Handelsregister?
+  - Notarielle Beglaubigung? Notwendig
+- Steuern:
+- Vorteile:
+- Nachteile:
+
+### Mischformen
+
+---
+
+1. KG auf Aktien (KGaA)
+   - Grundkapital 50.000 €
+   - Kommanditisten sind durch Aktionäre ersetzt
+
+#### Komplimentär in einer KG ausgetauscht
+
+---
+
+1. UG & Co. KG
+2. GmbH & Co. KG
+3. AG & Co. KG
+
+#### Komplimentär in einer KGaA ausgetauscht
+
+---
+
+1. UG & Co. KGaA
+2. GmbH & Co. KGaA
+3. AG & Co. KGaA
