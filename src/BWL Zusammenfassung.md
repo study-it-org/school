@@ -164,7 +164,7 @@ In Personengesellschaften wird mit dem Privatvermögen gehaftet.
 
 ---
 
-- Namensbildung:
+- Namensbildung: KG
 - Gründungsmitglieder:
 - Pflichten:
   - Handelsregister?
