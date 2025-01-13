@@ -114,7 +114,7 @@ In Personengesellschaften wird mit dem Privatvermögen gehaftet.
 ---
 
 - Namensbildung: e.K/e.Kfr.
-- Gründungsmitglieder: Maximal 1
+- Gründungsmitglieder: Min 1 : Max 1
 - Plichten:
 
   - Handelsregister? Ja
@@ -137,15 +137,49 @@ In Personengesellschaften wird mit dem Privatvermögen gehaftet.
 
 ---
 
-- Namensbildung:
-- Gründungsmitglieder: Mindestens 2
-- Steuern:
-- Pflichten:
-  - Handesregister? Nicht Notwenig
-  - Notarielle Beglaubigung? Nicht Notwenidg
-- Steuern:
-- Vorteile:
-- Nachteile:
+- **Beschreibung:** Die Gesellschaft bürgerlichen Rechts (GbR) eignet sich, wenn mindestens zwei Personen einen gemeinsamen Zweck verfolgen möchten und dabei eine einfache, formlos gründbare Rechtsform ohne große bürokratische oder finanzielle Hürden bevorzugen.
+- **Namensbildung:**
+  - **Bei GbR:** Sach-, Personen-, Phantasie- und Mischfirma möglich GbR Kürzel ist optional.
+  - **Bei eGbR:** Sach-, Personen-, Phantasie- und Mischfirma möglich eGbR Kürzel ist erforderlich.
+- **Gründungsmitglieder:**2 oder mehr
+- **Rollen im Unternehmen:** Alle Gesellschafter sind zur Geschäftsführung und Vertretung berechtigt (sofern nichts anderes vereinbart).
+- **Gesellschaftsregister:** Die GbR wird zu einer eGbR wenn sie im Gesellschaftsregister eingetragen wird.
+- **Notarielle Beglaubigung:** Nicht notwendig.
+- **Steuern:**
+  - Einkommenssteuer
+    - Grundfreibetrag = 0%
+    - Grundfreibetrag bis 60.000 € = 14%
+    - 60.000 € bis 270.000 € = 42%
+    - höher als 270.000 € = 45%
+  - Gewerbesteuer (außer Freiberufler z. B. Ärzte, Anwälte, Architekten)
+- **Vorteile:**
+  - Einfache Buchführung (Solange die Kleinunternehmerregelung)
+  - Kein Startkapital erforderlich.
+  - Keine Eintragung ins Handelsregister notwendig.
+  - Hohe Kreditwürdigkeit durch die Persönliche Haftung.
+  - Im Gesellschaftsvertrag Individuell Entscheidungsfindung und Gewinnverteilung festlegen.
+  - Keine Notarielle Beglaubigung notwendig.
+  - Bilanz und Jahresabschluss müssen nicht veröffentlicht werden (bis 60.000€ Gewinn oder 600.000€ Umsatz)
+  - Geringe Kosten
+    - Optional: Gewerbeamt Anmeldung (15-60€)
+- **Nachteile:**
+  - GbR endet sobald nur noch 1 Gesellschafter 
+  - Kann man nicht alleine Gründen.
+  - GbR hat keinen Hohen statuswert bei Kunden und anderen Unternehmen.
+  - Jeder Gesellschafter haftet auch für Fehler der anderen Gesellschafter.
+  - Bei Ausscheiden eines Gesellschafters oder im Todesfall kann die GbR aufgelöst werden, falls keine Regelung getroffen wurde.
+  - Haftung erfolgt im Privatvermögen und kann zur Privat Insolvenz führen.
+  - günstige Körperschaftssteuer von 15% nicht möglich (Gewinne = Einkommen mit normalem Steuersatz)
+  - Ungeeignet für Investoren
+    - Unbeschränkte Haftung
+    - Anteile können nicht erworben werden
+- **Sonderregelungen:**
+  - **Gründung:** Gründet sich automatisch sobald man 2 Personen ein gemeinsames Ziel verfolgen. 
+  - **Kleinunternehmerregelung:** Wenn der Gewinn im Gründungsjahr unter 25.000 € und der Umsatz im nächsten Geschäftsjahr unter 100.000 € liegt dann gilt die Kleinunternehmerregelung. Diese hat folgende Vorteile:
+    - Nur einfache (keine doppelte) Buchführung notwendig.
+    - Keine Mehrwert-/Umsatzsteuer notwendig.
+  - **Wann eGbR:** Eine GbR wird zu einer eGbR, wenn sie sich für bestimmte Rechtsgeschäfte – etwa den Grundstückskauf oder andere eintragungspflichtige Vorgänge – ins Gesellschaftsregister eintragen lassen muss, um eindeutig identifiziert werden zu können.
+  - **Wann OHG**
 
 #### Offene Handelsgesellschaft (OHG)
 
@@ -183,30 +217,32 @@ In Kapitalgesellschaften wird mit dem Kapital gehaftet.
 
 ---
 
-- Alle Gewinne gehen in das Startkapital bis 25.000 € erreicht wird. Dann wird die UG zur einer GmbH.
-- Namensbildung:
-- Gründungsmitglieder:
-- Grundkapital: 1
-- Pflichten:
-  - Handelsregister?
-  - Notarielle Beglaubigung? Notwendig
-- Steuern:
-- Vorteile:
-- Nachteile:
+- **Beschreibung:**
+- **Namensbildung:**
+- **Gründungsmitglieder:**
+- **Rollen im Unternehmen:**
+- **Handelsregister:**
+- **Notarielle Beglaubigung:**
+- **Steuern:**
+- **Vorteile:**
+- **Nachteile:**
+- **Sonderregelungen:**
 
 #### Gesellschaft mit beschränkter Haftung (GmbH)
 
 ---
 
+- Beschreibung:
 - Namensbildung:
-- Gründungsmitglieder: 1
+- Gründungsmitglieder: Mind 1
+- Rollen im Unternehmen: 
 - Grundkapital: 25.000 €
-- Pflichten:
-  - Handelsregister?
-  - Notarielle Beglaubigung? Notwendig
+- Handelsregister:
+- Notarielle Beglaubigung:
 - Steuern:
 - Vorteile:
 - Nachteile:
+- Sonderregelungen:
 
 #### Aktien Gesellschaft (AG)
 
@@ -245,3 +281,8 @@ In Kapitalgesellschaften wird mit dem Kapital gehaftet.
 1. UG & Co. KGaA
 2. GmbH & Co. KGaA
 3. AG & Co. KGaA
+
+## Aufbau einer Organisation
+
+---
+

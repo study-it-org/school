@@ -63,7 +63,7 @@ Ein Stellenwertsystem oder polyadisches Zahlensystem ist ein Zahlensystem, desse
 | ----------- | ----------------- | ----------------- | -------------------- | ----------------- |
 | **Basis**   | 10                | 2                 | 16                   | 8                 |
 | **Symbole** | 0123456789        | 01                | 0123456789ABCDEF     | 01234567          |
-| **Indizes** | $Z_10$ $Z_d$ $Z_D$ | $Z_2$ $Z_b$ $Z_B$ | $Z_{16}$ $Z_h$ $Z_H$ | $Z_8$ $Z_o$ $Z_O$ |
+| **Indizes** | $Z_{10}$ $Z_d$ $Z_D$ | $Z_2$ $Z_b$ $Z_B$ | $Z_{16}$ $Z_h$ $Z_H$ | $Z_8$ $Z_o$ $Z_O$ |
 
 #### Zahlenwert ermitteln
 
@@ -149,7 +149,7 @@ $\color{#7a59ff}n\color{gray}=$ Iterator des Summenzeichen
 
 **Formel:**
 
-$\color{gray}f(\color{#ff5959}x\color{gray}, \color{#5996ff}b\color{gray}) = \color{#ffd659}r\color{gray}_{\color{#59ff59}k}, ..., \color{#ffd659}r\color{gray}_2, \color{#ffd659}r\color{gray}_1$ wobei $\color{#ffd659}r\color{gray}_{\color{#7a59ff}i} = \color{#ff5959}x\color{gray} \mod \color{#5996ff}b\color{gray}^{\color{#7a59ff}i}$
+$\color{gray}f(\color{#ff5959}x\color{gray}, \color{#5996ff}b\color{gray}) = \color{#ffd659}r\color{gray}_{\color{#59ff59}k}, ..., \color{#ffd659}r\color{gray}_2, \color{#ffd659}r\color{gray}_1$ wobei $\color{#ffd659}r\color{gray}_{\color{#7a59ff}i} = \color{#ff5959}x\color{gray} \mod \color{#5996ff}b\color{gray}^{\color{#7a59ff}i\color{gray}-1}$
 
 **Beispiel:**
 
@@ -343,4 +343,3 @@ Unicode ist eine Globale Standard Formatierung für Zeichen nach ISO10646.
 
 - Die Binäre Codierung des Unicodes ist in UTF (Unicode Transformation Format).
 - Ermöglicht durch eine dynamische Größe zwischen 1 - 4 Bytes je nachdem, welche Zeichen verwendet werden, effizient mehr als 256 Zeichen zu verwenden.
-

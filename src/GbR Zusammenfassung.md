@@ -17,10 +17,10 @@
 
 - Einfache Buchführung (Solange die Kleinunternehmerregelung)
 - Kein Startkapital erforderlich.
-- Keine Eintragung ins Handelsregister notwendig
-- Hohe Kreditwürdigkeit durch die Persönliche Haftung
+- Keine Eintragung ins Handelsregister notwendig.
+- Hohe Kreditwürdigkeit durch die Persönliche Haftung.
 - Im Gesellschaftsvertrag Individuell Entscheidungsfindung und Gewinnverteilung festlegen.
-- Keine Notarielle Beglaubigung
+- Keine Notarielle Beglaubigung notwendig.
 - Bilanz und Jahresabschluss müssen nicht veröffentlicht werden (bis 60.000€ Gewinn oder 600.000€ Umsatz)
 - Geringe Kosten
   - Optional: Gewerbeamt Anmeldung (15-60€)
