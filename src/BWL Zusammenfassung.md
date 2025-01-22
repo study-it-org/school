@@ -38,62 +38,15 @@ E-Mail: wagner.m@gewerbeschule-vs.de
 
 ## Standort Faktoren
 
-**Wichtige Standortfaktoren bei der Unternehmensgründung (Stichpunkte)**
-
-- **Infrastruktur**
-
-  - Verkehrsanbindung (Straßen, Bahn, Flughafen, Seehafen)
-  - Digitale Infrastruktur (Internetgeschwindigkeit, Netzabdeckung)
-  - Energieversorgung (Stabilität, Kosten)
-
-- **Arbeitsmarkt**
-
-  - Verfügbarkeit von Fachkräften
-  - Qualifikationsniveau/Weiterbildungsmöglichkeiten
-  - Lohnniveau und Lohnnebenkosten
-
-- **Rechtliche & politische Rahmenbedingungen**
-
-  - Stabilität des politischen Umfelds
-  - Rechtssicherheit (Vertragsrecht, Patentrecht)
-  - Bürokratieaufwand (Genehmigungsverfahren, Anmeldeprozesse)
-  - Steuersystem (Einkommensteuer, Körperschaftsteuer, Gewerbesteuer)
-
-- **Finanzierungsmöglichkeiten**
-
-  - Zugang zu Banken, Risikokapitalgebern, Fördermitteln
-  - Investoren- und Gründerfreundlichkeit (Start-up-Ökosystem)
-  - Kreditkonditionen und staatliche Förderprogramme
-
-- **Marktzugang und Absatzmöglichkeiten**
-
-  - Nähe zu wichtigen Kunden und Geschäftspartnern
-  - Größe und Kaufkraft des Zielmarkts
-  - Internationale Vernetzung (Exportmöglichkeiten)
-
-- **Konkurrenz & Kooperationspotenzial**
-
-  - Cluster- und Netzwerkbildungen (z.B. Technologie- oder Industriecluster)
-  - Kooperationsmöglichkeiten mit Hochschulen, Forschungsinstituten oder anderen Unternehmen
-
-- **Lebensqualität & Standortimage**
-
-  - Attraktivität für Arbeitnehmer (Wohnraum, Freizeitangebote, Bildungssystem)
-  - Sicherheitslage und Umweltfaktoren
-  - Kultur- und Innovationsklima (z.B. Akzeptanz für neue Ideen)
-
-- **Kostenfaktoren**
-
-  - Miet- und Immobilienpreise (Gewerbeimmobilien)
-  - Energie- und Betriebskosten
-  - Steuern und Abgaben
-
-- **Zukunftsorientierte Faktoren**
-  - Innovationsförderung (Forschungs- und Entwicklungsinfrastruktur)
-  - Digitale Kompetenzen und Technologieakzeptanz
-  - Nachhaltigkeit (Verfügbarkeit erneuerbarer Energien, Umweltauflagen)
-
-Diese Faktoren können je nach Branche und Art des Unternehmens unterschiedlich gewichtet sein. Bei einer Unternehmensgründung sollte man eine individuelle Standortanalyse durchführen, um das optimale Umfeld für das eigene Geschäftsmodell zu finden.
+- Infrastruktur (Verkehrsanbindung, Digitale Infrastruktur, Energieversorgung)  
+- Arbeitsmarkt (Lohnniveau, Qualifikationsniveau)  
+- Rechtliche & politische Rahmenbedingungen (Stabilität, Rechtssicherheit, Bürokratieaufwand, Steuersystem)  
+- Finanzierungsmöglichkeiten (Banken, Fördermittel, Investorenfreundlichkeit)  
+- Marktzugang  
+- Konkurrenz & Kooperationspotenzial   
+- Lebensqualität (Sicherheitslage, Kultur)  
+- Kostenfaktoren (Miete, Steuern)  
+- Zukunftsorientierte Faktoren (Innovationsförderung, Nachhaltigkeit)
 
 ## Unternehmensformen
 
@@ -109,29 +62,40 @@ Diese Faktoren können je nach Branche und Art des Unternehmens unterschiedlich 
 
 In Personengesellschaften wird mit dem Privatvermögen gehaftet.
 
+**Steuern:**
+- Einkommenssteuer
+  - Grundfreibetrag = 0%
+  - Grundfreibetrag bis 60.000 € = 14%
+  - 60.000 € bis 270.000 € = 42%
+  - höher als 270.000 € = 45%
+- Gewerbesteuer (außer Freiberufler z. B. Ärzte, Anwälte, Architekten)
+
 #### Einzelunternehmer
 
 ---
 
-- Namensbildung: e.K/e.Kfr.
-- Gründungsmitglieder: Min 1 : Max 1
-- Plichten:
+- **Beschreibung:** Ein Einzelunternehmer ist eine einzelne natürliche Person, die ein Gewerbe oder eine freiberufliche Tätigkeit ausübt. Diese Rechtsform ermöglicht einen unkomplizierten Start ohne umfangreiche bürokratische oder finanzielle Hürden.
+- **Namensbildung:**
+  - **Bei Kleingewerbetreibenden:** Der bürgerliche Name muss enthalten sein (z. B. „Max Mustermann“). Zusätzliche Sach-, Fantasie- oder Mischbezeichnungen sind möglich, dürfen aber nicht den Personencharakter der Firma verschleiern.
+  - **Bei e.K. (eingetragener Kaufmann):** Der bürgerliche Name mit Zusatz „e.K.“ ist erforderlich. Sach-, Fantasie- oder Mischbezeichnungen können ebenfalls verwendet werden, sofern eindeutig bleibt, dass es sich um eine Einzelperson handelt.
+- **Gründungsmitglieder:** 1 Person
+- **Rollen im Unternehmen:** Der Einzelunternehmer ist allein zur Geschäftsführung und Vertretung berechtigt.
+- **Handelsregister:** Eine Eintragung ist nicht erforderlich, es sei denn, das Unternehmen erfordert aufgrund seines Umfangs eine kaufmännische Einrichtung; in diesem Fall erfolgt die Eintragung als e.K. (eingetragener Kaufmann).
+- **Notarielle Beglaubigung:** Nicht notwendig.
+- **Vorteile:**
+  - Einfache Buchführung (Einnahmen-Überschuss-Rechnung) möglich.
+  - Kein Mindestkapital erforderlich.
+  - Schnelle und unkomplizierte Gründung.
+  - Volle Kontrolle und Entscheidungsfreiheit.
+  - Keine Pflicht zur Veröffentlichung von Jahresabschlüssen.
+- **Nachteile:**
+  - Unbeschränkte Haftung mit dem gesamten Privatvermögen.
+  - Eingeschränkte Finanzierungsmöglichkeiten, da keine Ausgabe von Anteilen möglich ist.
+  - Bei Ausfall des Inhabers kann der Geschäftsbetrieb beeinträchtigt werden.
+  - Begrenzte Möglichkeiten zur Expansion und Aufnahme von Partnern.
+- **Sonderregelungen:**
+  - **Eingetragener Kaufmann (e.K.):** Überschreitet der Geschäftsbetrieb eine gewisse Größe oder erfordert eine kaufmännische Organisation, ist eine Eintragung ins Handelsregister als e.K. erforderlich.
 
-  - Handelsregister? Ja
-
-    1. Vollständiger Name
-    2. Sitz
-    3. Beschreibung des Geschäftsgegenstands
-
-  - Notarielle Beglaubigung? Nicht Notwendig
-
-- Steuern
-
-  1. Einkommenssteuer
-  2. Gewerbesteuer
-
-- Vorteile: Selber Bestimmen, Gewinnverteilung auch selber
-- Nachteile: Haftung mit Privatvermögen
 
 #### Gesellschaft bürgerlichen Rechts (GbR)
 
@@ -141,17 +105,10 @@ In Personengesellschaften wird mit dem Privatvermögen gehaftet.
 - **Namensbildung:**
   - **Bei GbR:** Sach-, Personen-, Phantasie- und Mischfirma möglich GbR Kürzel ist optional.
   - **Bei eGbR:** Sach-, Personen-, Phantasie- und Mischfirma möglich eGbR Kürzel ist erforderlich.
-- **Gründungsmitglieder:**2 oder mehr
+- **Gründungsmitglieder:** 2 oder mehr
 - **Rollen im Unternehmen:** Alle Gesellschafter sind zur Geschäftsführung und Vertretung berechtigt (sofern nichts anderes vereinbart).
 - **Gesellschaftsregister:** Die GbR wird zu einer eGbR wenn sie im Gesellschaftsregister eingetragen wird.
 - **Notarielle Beglaubigung:** Nicht notwendig.
-- **Steuern:**
-  - Einkommenssteuer
-    - Grundfreibetrag = 0%
-    - Grundfreibetrag bis 60.000 € = 14%
-    - 60.000 € bis 270.000 € = 42%
-    - höher als 270.000 € = 45%
-  - Gewerbesteuer (außer Freiberufler z. B. Ärzte, Anwälte, Architekten)
 - **Vorteile:**
   - Einfache Buchführung (Solange die Kleinunternehmerregelung)
   - Kein Startkapital erforderlich.
@@ -179,7 +136,7 @@ In Personengesellschaften wird mit dem Privatvermögen gehaftet.
     - Nur einfache (keine doppelte) Buchführung notwendig.
     - Keine Mehrwert-/Umsatzsteuer notwendig.
   - **Wann eGbR:** Eine GbR wird zu einer eGbR, wenn sie sich für bestimmte Rechtsgeschäfte – etwa den Grundstückskauf oder andere eintragungspflichtige Vorgänge – ins Gesellschaftsregister eintragen lassen muss, um eindeutig identifiziert werden zu können.
-  - **Wann OHG**
+  - **Wann OHG:** Eine GbR sollte in eine OHG umgewandelt werden, sobald das Unternehmen über eine einfache, nicht-kaufmännische Partnerschaft hinauswächst, beispielsweise durch erweiterten Geschäftsbetrieb, die Pflicht zur kaufmännischen Buchführung oder steigende Umsätze.
 
 #### Offene Handelsgesellschaft (OHG)
 
@@ -213,6 +170,10 @@ In Personengesellschaften wird mit dem Privatvermögen gehaftet.
 
 In Kapitalgesellschaften wird mit dem Kapital gehaftet.
 
+**Steuern:**
+- Körperschaftsteuer (15%)
+- Gewerbesteuer (außer Freiberufler z. B. Ärzte, Anwälte, Architekten)
+
 #### Unternehmergesellschaft (UG)
 
 ---
@@ -222,7 +183,7 @@ In Kapitalgesellschaften wird mit dem Kapital gehaftet.
 - **Gründungsmitglieder:**
 - **Rollen im Unternehmen:**
 - **Handelsregister:**
-- **Notarielle Beglaubigung:**
+- **Notarielle Beglaubigung:** Notwendig
 - **Steuern:**
 - **Vorteile:**
 - **Nachteile:**
@@ -232,31 +193,49 @@ In Kapitalgesellschaften wird mit dem Kapital gehaftet.
 
 ---
 
-- Beschreibung:
-- Namensbildung:
-- Gründungsmitglieder: Mind 1
-- Rollen im Unternehmen: 
-- Grundkapital: 25.000 €
-- Handelsregister:
-- Notarielle Beglaubigung:
-- Steuern:
-- Vorteile:
-- Nachteile:
-- Sonderregelungen:
+- **Beschreibung:**
+- **Namensbildung:**
+- **Gründungsmitglieder:** Mind 1
+- **Grundkapital:** 25.000 €
+- **Rollen im Unternehmen:**
+  - Gesellschaftsversammlung
+    - Bestellung und Abberufung der Geschäftsführung.
+    - Verwendung des Jahresgewinns
+    - Änderungen des Gesellschaftsvertrags
+    - Genehmigung von Geschäftsführungsmaßnahmen
+  - Geschäftsführung
+  - Aufsichtsrat ab 500 Mitarbeiter
+- **Handelsregister:**
+- **Notarielle Beglaubigung:** Notwendig
+- **Vorteile:**
+- **Nachteile:**
+- **Sonderregelungen:**
 
 #### Aktien Gesellschaft (AG)
 
 ---
 
-- Namensbildung:
-- Gründungsmitglieder:
-- Grundkapital: 50.000 €
-- Pflichten:
-  - Handelsregister?
-  - Notarielle Beglaubigung? Notwendig
-- Steuern:
-- Vorteile:
-- Nachteile:
+- **Beschreibung:**
+- **Namensbildung:**
+- **Grundkapital:** 50.000 €
+- **Rollen im Unternehmen:**
+  - Hauptversammlung
+    - Wahl des Aufsichtsrats.
+    - Verwendung des Bilanzgewinns (z. B. Dividenden).
+    - Beschlüsse
+  - Vorstand (Vorstandsvorsitzender)
+    - Geschäftsführung
+  - Aufsichtsrat
+    - Überwacht den Vorstand
+    - repräsentiert Aktionäre und Mitarbeiter
+- **Handelsregister:**
+- **Notarielle Beglaubigung:** Notwendig
+- **Vorteile:**
+- **Nachteile:**
+- **Sonderregelungen:** 
+  - Nennwertaktien (min 1 Euro)
+  - Kurswert (Angebot und Nachfrage)
+  - Stückaktien
 
 ### Mischformen
 
